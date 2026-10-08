@@ -153,14 +153,14 @@ def build():
     font-style: normal;
 }}
 *{{margin:0;padding:0;box-sizing:border-box}}
-body{{background:#fff;color:#000;font-family:'Departure Mono',monospace;font-size:11px;line-height:1.6}}
+body{{background:#fff;color:#000;font-family:'Departure Mono',monospace;font-size:14px;line-height:1.6}}
 header{{position:sticky;top:0;background:rgba(255,255,255,0.95);padding:6px 8px;backdrop-filter:blur(10px);display:flex;justify-content:space-between;align-items:baseline}}
-header .name{{font-weight:bold}}
+header .name{{font-weight:bold;font-size:14px}}
 main{{padding:8px}}
-h1{{font-size:12px;margin:20px 0 6px 0}}
+h1{{font-size:16px;margin:20px 0 6px 0}}
 h1:first-child{{margin-top:0}}
-h2{{font-size:11px;margin:16px 0 4px 0}}
-h3{{font-size:11px;margin:12px 0 4px 0}}
+h2{{font-size:14px;margin:16px 0 4px 0}}
+h3{{font-size:14px;margin:12px 0 4px 0}}
 p{{margin-bottom:8px}}
 a{{color:#0000ee}}
 a:visited{{color:#551a8b}}
@@ -170,7 +170,7 @@ hr{{border:none;height:1px;background:#ccc;margin:20px 0}}
 ul,ol{{margin:0 0 8px 18px}}
 li{{margin-bottom:2px}}
 blockquote{{border-left:2px solid #ccc;padding-left:8px;color:#555;font-style:italic;margin:8px 0}}
-code{{background:#f0f0f0;padding:1px 3px;font-family:'Departure Mono',monospace;font-size:11px}}
+code{{background:#f0f0f0;padding:1px 3px;font-family:'Departure Mono',monospace;font-size:14px}}
 pre{{background:#f0f0f0;border:1px solid #ddd;padding:8px;margin:8px 0;overflow-x:auto}}
 pre code{{background:none;padding:0}}
 img{{max-width:100%;margin:8px 0}}

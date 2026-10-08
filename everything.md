@@ -1,3 +1,9 @@
+# Welcome 
+
+Welcome to ***Ranlogs***
+
+***Always scroll down for new logs***
+
 # Randomness
 
 I really believe in randomness that's what this whole site is all about. 
