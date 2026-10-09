@@ -21,4 +21,10 @@ Font is Departure Mono: https://departuremono.com/
 # Grass is always greener on the other side
 
 Always.
+
+# Felicity
+
+A fleeting felicity, shadowed by sorrows yet to come; for what are joy and grief but passing visitors, 
+when the heart is set upon a purpose beyond them both?
+
 9/10/26
