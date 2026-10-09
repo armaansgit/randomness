@@ -18,3 +18,7 @@ Well, I have two answers for that:
 Just a single HTML file, a single .md file, and a ~200-line Python script that converts my Markdown into HTML
 Font is Departure Mono: https://departuremono.com/
 
+# Grass is always greener on the other side
+
+Always.
+9/10/26
