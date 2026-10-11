@@ -28,3 +28,10 @@ A fleeting felicity, shadowed by sorrows yet to come; for what are joy and grief
 when the heart is set upon a purpose beyond them both?
 
 9/10/26
+
+# Brayn Jhonson -->  [Read More](https://en.wikipedia.org/wiki/Bryan_Johnson)
+
+Stuck in a loop of nothing.
+but making it look like he is doing something very great for humans he is not.
+
+11/10/25
