@@ -154,8 +154,8 @@ def build():
 }}
 *{{margin:0;padding:0;box-sizing:border-box}}
 body{{
-    background:#fff;
-    color:#000;
+    background:#000;
+    color:#fff;
     font-family:'Departure Mono',monospace;
     font-size:14px;
     line-height:1.6;
@@ -181,7 +181,7 @@ body::before {{
 header{{
     position:sticky;
     top:0;
-    background:rgba(255,255,255,0.85);
+    background:rgba(0,0,0,0.85);
     padding:6px 8px;
     backdrop-filter:blur(8px);
     display:flex;
@@ -195,16 +195,16 @@ h1:first-child{{margin-top:0}}
 h2{{font-size:14px;margin:16px 0 4px 0}}
 h3{{font-size:14px;margin:12px 0 4px 0}}
 p{{margin-bottom:8px}}
-a{{color:#0000ee}}
-a:visited{{color:#551a8b}}
-a:hover{{color:#0000ee}}
+a{{color:#7eb8da}}
+a:visited{{color:#a989d8}}
+a:hover{{color:#a8d4f0}}
 strong{{font-weight:bold}}
-hr{{border:none;height:1px;background:rgba(0,0,0,0.2);margin:20px 0}}
+hr{{border:none;height:1px;background:rgba(255,255,255,0.2);margin:20px 0}}
 ul,ol{{margin:0 0 8px 18px}}
 li{{margin-bottom:2px}}
-blockquote{{border-left:2px solid #ccc;padding-left:8px;color:#555;font-style:italic;margin:8px 0}}
-code{{background:rgba(240,240,240,0.7);padding:1px 3px;font-family:'Departure Mono',monospace;font-size:14px}}
-pre{{background:rgba(240,240,240,0.7);border:1px solid #ddd;padding:8px;margin:8px 0;overflow-x:auto}}
+blockquote{{border-left:2px solid #555;padding-left:8px;color:#aaa;font-style:italic;margin:8px 0}}
+code{{background:rgba(255,255,255,0.1);padding:1px 3px;font-family:'Departure Mono',monospace;font-size:14px}}
+pre{{background:rgba(255,255,255,0.08);border:1px solid #333;padding:8px;margin:8px 0;overflow-x:auto}}
 pre code{{background:none;padding:0}}
 img{{max-width:100%;margin:8px 0}}
 </style>
