@@ -25,15 +25,16 @@ body{
 body::before {
     content:"";
     position:fixed;
-    top:0;
-    left:0;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
     width:100vw;
     height:100vh;
     background-image:url('bg.png');
-    background-position:center;
-    background-size:cover;
+    background-position:center center;
+    background-size:contain;
     background-repeat:no-repeat;
-    opacity:0.35;
+    opacity:0.5;
     z-index:-1;
     pointer-events:none;
 }
