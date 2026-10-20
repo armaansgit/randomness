@@ -34,4 +34,10 @@ when the heart is set upon a purpose beyond them both?
 Stuck in a loop of nothing.
 but making it look like he is doing something very great for humans he is not.
 
-11/10/25
+11/10/26
+
+# Too much Jargon
+
+Fast-paced life is literally a wasted life; the faster you move, the stupider you become.
+
+20/10/26
