@@ -41,3 +41,11 @@ but making it look like he is doing something very great for humans he is not.
 Fast-paced life is literally a wasted life; the faster you move, the stupider you become.
 
 20/10/26
+
+# AI
+
+> The bread is full of microplastics, and the circus is A.I. generated.
+
+You still enjoying that microplastic bread?
+
+1/11/26
