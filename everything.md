@@ -49,3 +49,16 @@ Fast-paced life is literally a wasted life; the faster you move, the stupider yo
 You still enjoying that microplastic bread?
 
 1/11/26
+
+# Machine
+
+> Slow, Fast, Big, Small, Industrial, Commercial.
+
+It's *exhausting,* continuous, repetition, Short term pleasure.
+yes
+Yes
+You invented something.
+Now you are free. 
+
+3/11/26
+
