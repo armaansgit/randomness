@@ -94,4 +94,8 @@ Really far away from me
 Really close to me
 but I can't touch it right now.
 
+# Beyond Compare Solo
+
+![The Long Spring](best-solo.png)
+
 10/11/26
