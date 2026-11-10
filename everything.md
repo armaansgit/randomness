@@ -75,3 +75,17 @@ Yeah you can argue with - *"Lift Your Skinny Fists like Antennas to Heaven"*.
 
 6/11/26
 
+# Based [Things I use]
+
+1. Old Laptop running arch [xfce]
+    - Brave
+    - Screen shot tool
+    - Mousepad
+    - vim, nvim
+
+2. Mostly everything is on paper not a big fan of digitalism 
+    for to do list a short notebook 
+    for journaling [legal paper]
+    Any pen
+
+10/11/26
