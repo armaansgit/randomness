@@ -88,4 +88,10 @@ Yeah you can argue with - *"Lift Your Skinny Fists like Antennas to Heaven"*.
     for journaling [legal paper]
     Any pen
 
+# Wisdom
+
+Really far away from me 
+Really close to me
+but I can touch it right now.
+
 10/11/26
