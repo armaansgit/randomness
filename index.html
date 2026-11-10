@@ -14,8 +14,8 @@
 }
 *{margin:0;padding:0;box-sizing:border-box}
 body{
-    background:#80AA94;
-    color:#000;
+    background:#8ECAE6;
+    color:#8B1A1A;
     font-family:'Departure Mono',monospace;
     font-size:14px;
     line-height:1.6;
@@ -30,7 +30,7 @@ body{
 }
 header{
     position:sticky;top:0;
-    background:rgba(128,170,148,0.92);
+    background:rgba(142,202,230,0.92);
     padding:6px 8px;
     backdrop-filter:blur(8px);
     display:flex;justify-content:space-between;align-items:baseline;
@@ -193,7 +193,7 @@ img{max-width:100%;margin:8px 0}
   <div class="pl">COLOR</div>
   <div class="pc">
     <span class="sw" data-color="#F5F0E8" style="background:#F5F0E8" onclick="setBg(this.dataset.color)"></span>
-    <span class="sw" data-color="#80AA94" style="background:#80AA94" onclick="setBg(this.dataset.color)"></span>
+    <span class="sw" data-color="#8ECAE6" style="background:#8ECAE6" onclick="setBg(this.dataset.color)"></span>
     <span class="sw" data-color="#B5C4D6" style="background:#B5C4D6" onclick="setBg(this.dataset.color)"></span>
     <span class="sw" data-color="#D4B5B5" style="background:#D4B5B5" onclick="setBg(this.dataset.color)"></span>
     <span class="sw" data-color="#E8D5B7" style="background:#E8D5B7" onclick="setBg(this.dataset.color)"></span>
@@ -210,7 +210,7 @@ img{max-width:100%;margin:8px 0}
   var overlay = document.getElementById('grain-overlay');
   overlay.style.backgroundImage = 'url("' + grainURL + '")';
 
-  var defaults = {"mode":"light","bg":"#80AA94","grain":0};
+  var defaults = {"mode":"light","bg":"#8ECAE6","grain":0};
   var state;
   try { state = JSON.parse(localStorage.getItem('rnd_pal')) || defaults; }
   catch(e) { state = defaults; }
@@ -225,7 +225,7 @@ img{max-width:100%;margin:8px 0}
   function apply() {
     var isDark = state.mode === 'dark';
     document.body.style.background = state.bg;
-    document.body.style.color = isDark ? '#e8e8e8' : '#000';
+    document.body.style.color = isDark ? '#e8e8e8' : '#8B1A1A';
     var rgb = hexToRgb(state.bg);
     document.querySelector('header').style.background = isDark
       ? 'rgba(0,0,0,0.88)'
