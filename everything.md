@@ -78,6 +78,7 @@ Yeah you can argue with - *"Lift Your Skinny Fists like Antennas to Heaven"*.
 # Based [Things I use]
 
 1. Old Laptop running arch [xfce]
+    - Xfce Terminal 
     - Brave
     - Screen shot tool
     - Mousepad
