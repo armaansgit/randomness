@@ -107,4 +107,10 @@ but I can't touch it right now.
 
 [source](https://www.reddit.com/r/TheNightFeeling/s/xKTJecdnmx)
 
+# Internet
+
+I just realised how humans are really indenpendt on internet 
+It is really really mind bending.
+[yea my wifi was not working for like 3hrs (and I listed out 100 Imp things to-do.]
+
 12/11/26
