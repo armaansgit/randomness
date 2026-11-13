@@ -114,3 +114,9 @@ It is really really mind bending.
 [yea my wifi was not working for like 3hrs (and I listed out 100 Imp things to-do.]
 
 12/11/26
+
+# Hyperthymesia
+
+It's 50-50 in me
+
+13/11/26
