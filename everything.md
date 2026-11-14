@@ -130,6 +130,6 @@ Looping
 
 # Vim
 
-Discovered a new shortcut `shift + 8` lets you search for a word. Absolute easter egg (atleast for me)
+Discovered a new shortcut `shift + 8` lets you search for the word your cursor is on. Absolute easter egg (atleast for me)
 
 14/11/26
