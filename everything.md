@@ -126,6 +126,10 @@ It's 50-50 in me
 ![Enjoy Enternal Bliss](eteb.jpg) 
 
 Looping 
-* Enjoy Enternal Bliss
+* Enjoy Enternal Bliss - [Album](https://open.spotify.com/album/3V2hqMSF0oUvqSbSOkcx4G?si=awIqPhshQAK4u9P7MYh3vQ)
+
+# Vim
+
+Discovered a new shortcut `shift + 8` lets you search for a word. Absolute easter egg (atleast for me)
 
 14/11/26
