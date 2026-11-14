@@ -120,3 +120,7 @@ It is really really mind bending.
 It's 50-50 in me
 
 13/11/26
+
+# Yndi Halda
+
+![Enjoy Enternal Bliss](eteb.jpg) 
