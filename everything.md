@@ -124,3 +124,7 @@ It's 50-50 in me
 # Yndi Halda
 
 ![Enjoy Enternal Bliss](eteb.jpg) 
+
+Looping 
+
+14/11/26
