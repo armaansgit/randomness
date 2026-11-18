@@ -133,3 +133,9 @@ Looping
 Discovered a new shortcut `shift + 8` lets you search for the word your cursor is on. Absolute easter egg (atleast for me)
 
 14/11/26
+
+# Sound Cloud
+
+F* ck every music app use Sound Cloud
+
+19/11/26
