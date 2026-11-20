@@ -140,7 +140,11 @@ F* ck every music app use Sound Cloud
 
 19/11/26
 
-# Here it goes ?
+# Here it goes [solved??????]?
 
 ![omg](rh.png)
 [source](https://alpo.ge/remark.pdf)
+
+If you still wondering what I am talking about sorry you're not that into Mathematics.
+
+21/11/26
