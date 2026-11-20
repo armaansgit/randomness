@@ -139,3 +139,8 @@ Discovered a new shortcut `shift + 8` lets you search for the word your cursor i
 F* ck every music app use Sound Cloud
 
 19/11/26
+
+# Here it goes ?
+
+![omg](rh.png)
+[source](https://alpo.ge/remark.pdf)
