@@ -142,7 +142,7 @@ F* ck every music app use Sound Cloud
 
 # Here it goes [solved??????]?
 
-![omg](rh.png)
+![omg](rhpng)
 [source](https://alpo.ge/remark.pdf)
 
 If you still wondering what I am talking about sorry you're not that into Mathematics.
